@@ -8,7 +8,7 @@ This is a simple real-time html editor, for very small tests and things like thi
 - Code highlight;
 - Auto-close tags and brackets;
 - Real-time code rendering;
-- Some features will be added in the future :-P
+
 
 ---
 
